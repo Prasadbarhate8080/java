@@ -1,7 +1,6 @@
-class First
-{
-    public static void main(String []arg)
+public class first {
+    public static void main(String[arg])
     {
-        System.out.println("this is first java program");
+        System.out.println("hello world");
     }
 }
